@@ -26,13 +26,12 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   <img align="center" alt="Wdson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Wdson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wdson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
 </div>
-  
-  <div>
-    <img align="right" alt="Wdson-Naruto" src="https://media.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" width="150" height="100">
-  </div>
 
+</div>
 
-  ![Snake animation](https://github.com/wdsonhenrique/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wdsonhenrique/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+    <img align="center" alt="Wdson-Naruto" src="https://media.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" width="150" height="100">
 </div>
