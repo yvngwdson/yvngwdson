@@ -15,8 +15,7 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   * 📬 How to reach me: wdson_henrique@hotmail.com
   * ⚡️ Fun fact: I play games and watch animes.
   
-  
-  ## 
+  ##  
   
   **Top Technologies**
   
@@ -27,13 +26,21 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   <img align="center" alt="Wdson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wdson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+  
+  
+&nbsp;
+<div>
+  <a href="https://github.com/wdsonhenrique">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdsonhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+  <img align="right" alt="naruto" src="https://media0.giphy.com/media/xbgTlkPxbZaa4/giphy.gif?cid=ecf05e478nrmqm3z1uwyxezv76fqtfnlubiqxkfneg9xw857&rid=giphy.gif&ct=g" width="350" height="300" style="boder: solid 1px red;">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsonhenrique&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+<div>
 
 ##  
 
-![Snake animation](https://github.com/wdsonhenrique/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-<div>
-    <img align="center" alt="Wdson-Naruto" src="https://media.giphy.com/media/3o7btXJQm5DD8ApubC/giphy.gif" width="150" height="100">
+  ![Snake animation](https://github.com/wdsonhenrique/wdsonhenrique/blob/output/github-contribution-grid-snake.svg)
 </div>
