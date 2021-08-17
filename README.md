@@ -33,7 +33,6 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   <a href="https://github.com/wdsonhenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdsonhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img align="right" alt="naruto" src="https://media0.giphy.com/media/xbgTlkPxbZaa4/giphy.gif?cid=ecf05e478nrmqm3z1uwyxezv76fqtfnlubiqxkfneg9xw857&rid=giphy.gif&ct=g" width="350" height="300" style="boder: solid 1px red;">
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsonhenrique&layout=compact&langs_count=16&theme=dracula"/>
 </div>
