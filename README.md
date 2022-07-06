@@ -31,14 +31,14 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
 &nbsp;
 <div>
   <a href="https://github.com/yvngwdson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yvngwdson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdsonhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvngwdson&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsonhenrique&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div>
 
 ##  
 
-  ![Snake animation](https://github.com/yvngwdson/yvngwdson/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wdsonhenrique/wdsonhenrique/blob/output/github-contribution-grid-snake.svg)
 </div>
