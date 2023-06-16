@@ -5,7 +5,7 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
 📪 Reach me out !
 
 <div> 
-  <a href="https://instagram.com/yvngwdson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/wdsonhcf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/wdsonhenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
   ##  
@@ -30,7 +30,7 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   
 &nbsp;
 <div>
-  <a href="https://github.com/yvngwdson">
+  <a href="https://github.com/wdsonhenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdsonhenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsonhenrique&layout=compact&langs_count=16&theme=dracula"/>
